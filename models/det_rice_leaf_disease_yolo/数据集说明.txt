@@ -1,0 +1,2 @@
+水稻病虫害数据集。YOLO格式，txt标注，数据集是已经标注好的，用于训练目标检测模型。共计1400多张图片，分为3类：Bacterial blight（白叶枯病）、Rice Blast（稻瘟病），Brown Spot（褐斑病）。数据集已经按照8:2的比例划分好训练集、验证集。标注的 class_id = ["0 BrownSpot",'1 RiceBlast','2 BacterialBlight']
+下单后留言。百度网盘发货哦

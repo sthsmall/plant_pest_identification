@@ -1,0 +1,6 @@
+train: E:\datasets\det_rice_leaf_disease_yolo\train\images
+val: E:\datasets\det_rice_leaf_disease_yolo\val\images
+
+
+nc: 3
+names: ["0 BrownSpot",'1 RiceBlast','2 BacterialBlight']

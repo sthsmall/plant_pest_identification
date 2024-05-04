@@ -1,0 +1,6 @@
+train: F:\github\yolov5\models\det_rice_leaf_disease_yolo\train
+val: F:\github\yolov5\models\det_rice_leaf_disease_yolo\val
+
+
+nc: 3
+names: ["0 BrownSpot",'1 RiceBlast','2 BacterialBlight']
