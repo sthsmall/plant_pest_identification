@@ -1,32 +1,10 @@
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.tif
-*.tiff
-*.heic
-*.JPG
-*.JPEG
-*.PNG
-*.BMP
-*.TIF
-*.TIFF
-*.HEIC
-*.mp4
-*.mov
-*.MOV
-*.avi
-*.data
-*.json
-*.cfg
 !setup.cfg
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
 
-data/*
-data/images/*
+
 !data/*.yaml
 !data/hyps
 !data/scripts
@@ -182,7 +160,6 @@ Icon
 Icon?
 
 # Thumbnails
-._*
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
